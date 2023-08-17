@@ -1,5 +1,4 @@
 
-https://github.com/ChaitanyaYeole/PDFExpert-Python/assets/69446108/cfe86945-0ecf-4e13-91e6-93742ebaf4ea
 # PDF-EXPERT
 
 

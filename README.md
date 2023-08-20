@@ -1,6 +1,6 @@
 
 # PDF-EXPERT
-
+The project PDF Expert is a Windows based application which will build in Python  Programming language. This software will be used for almost all works regarding pdf  documents. It will provide all features at one place. Main useful feature are like, viewing pdf  document, extracting text form pdf, marge pdf, splitting pdf, text to speech, adding watermark  and many more. It will be easily used any by user as it will be user friendly. Using this  software user don’t want wander for using different activities regarding pdf, he/she can use all  this feature in pdf expert software.
 
 
 https://github.com/ChaitanyaYeole/PDFExpert-Python/assets/69446108/8754fba1-6074-4409-8f0c-10c18bb31efe
